@@ -1,8 +1,18 @@
-### Hi there 👋
+### Welcome to Joshua Caratao's Profile! 👋
+
+I'm currently a Mechanical Engineering Student at the University of Texas at Austin. 
+
+From my experience, I've developed a deep interest in both mechanical design and programming. I love being able to design things while also being able to have the skills to bring those things to life through electronics and programming.
+
+Currently, I'm interested in robotics, aerospace, and defense.
+
+Feel free to view my public repos to see what electronics/programming projects I've worked on!
+
+How to reach me: joshua_caratao@yahoo.com
+
+Linkedin: [Joshua Caratao](linkedin.com/in/joshua-caratao-64650824a)
 
 <!--
-**JoshCaratao/JoshCaratao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
