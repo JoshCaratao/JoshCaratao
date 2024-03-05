@@ -10,7 +10,7 @@ Feel free to view my public repos to see what electronics/programming projects I
 
 How to reach me: joshua_caratao@yahoo.com
 
-Linkedin: [Joshua Caratao](linkedin.com/in/joshua-caratao-64650824a)
+Linkedin: [Joshua Caratao](https://www.linkedin.com/in/joshuacaratao/)
 
 <!--
 Here are some ideas to get you started:
