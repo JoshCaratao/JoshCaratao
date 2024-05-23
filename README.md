@@ -8,7 +8,7 @@ Currently, I'm interested in robotics, aerospace, and defense.
 
 Feel free to view my public repos to see what electronics/programming projects I've worked on!
 
-How to reach me: joshua_caratao@yahoo.com
+How to reach me: joshuacaratao@utexas.edu
 
 Linkedin: [Joshua Caratao](https://www.linkedin.com/in/joshuacaratao/)
 
