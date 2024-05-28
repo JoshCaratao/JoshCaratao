@@ -10,7 +10,7 @@ Feel free to view my public repos  or my website below to see what projects I've
 
 How to reach me: joshuacaratao@utexas.edu
 
-Portfolio Website: [Joshua Caratao](https://www.joshuacaratao.com)
+Portfolio: [Personal Portfolio Website](https://www.joshuacaratao.com)
 
 Linkedin: [Joshua Caratao](https://www.linkedin.com/in/joshuacaratao/)
 
