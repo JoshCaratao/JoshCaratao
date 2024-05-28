@@ -6,9 +6,11 @@ From my experience, I've developed a deep interest in both mechanical design and
 
 Currently, I'm interested in robotics, aerospace, and defense.
 
-Feel free to view my public repos to see what electronics/programming projects I've worked on!
+Feel free to view my public repos  or my website below to see what projects I've been working on!
 
 How to reach me: joshuacaratao@utexas.edu
+
+Portfolio Website: [Joshua Caratao](https://www.joshuacaratao.com)
 
 Linkedin: [Joshua Caratao](https://www.linkedin.com/in/joshuacaratao/)
 
