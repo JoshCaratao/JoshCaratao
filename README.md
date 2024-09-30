@@ -4,7 +4,7 @@ I'm currently a Mechanical Engineering Student at the University of Texas at Aus
 
 From my experience, I've developed a deep interest in both mechanical design and programming. I love being able to design things while also being able to have the skills to bring those things to life through electronics and programming.
 
-Currently, I'm interested in robotics, aerospace, and defense.
+Currently, I'm interested in robotics, aerospace, and Energy
 
 Feel free to view my public repos  or my website below to see what projects I've been working on!
 
